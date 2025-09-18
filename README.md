@@ -6,7 +6,7 @@ A simple Node.js API that stores and serves crochet stitch data, including name,
 -Update existing stitches.
 -Delete stitches.
 -Steps stored as JSON arrays for easy iteration.
-#Technologies
+# Technologies
 -Node.js
 -Express.js
 -SQLite
